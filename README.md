@@ -115,4 +115,4 @@ $
 ## AUTHORS
  
 * **Believe Inyang** - [Believe](https://github.com/Menzo_tech)
-* **Nelly Muhoza** - [Nelly] (https://github.com/NellyMu)
+* **Nelly Muhoza** - [Nelly] (https://github.com/NellyMuh)
